@@ -1,8 +1,8 @@
 class seven {
 public static void main(String[] args) {
-System.out.println("<楓橋夜泊>\n");
-System.out.println("作者：張繼\n");
-System.out.println("月落烏啼霜滿天，江楓漁火對愁眠。\n");
-System.out.println("姑蘇城外寒山寺，夜半鐘聲到客船。\n");
+System.out.println("《送孟浩然之廣陵》\n");
+System.out.println("作者：李白\n");
+System.out.println("故人西辭黃鶴樓，煙花三月下揚州。\n");
+System.out.println("孤帆遠影碧空盡，惟見長江天際流。\n");
 }
 }
